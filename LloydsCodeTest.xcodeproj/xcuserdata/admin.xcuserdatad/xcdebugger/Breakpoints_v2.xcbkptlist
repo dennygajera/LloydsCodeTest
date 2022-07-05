@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CCBA7456-0536-430E-A24C-62CAC9E7205F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47050B10-0A74-4925-8E5C-48B35F526408"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LloydsCodeTest/ViewModel/ProjectViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "date"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "47050B10-0A74-4925-8E5C-48B35F526408 - 348b1bf8ef9c80f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LloydsCodeTest.ProjectDataItemViewModel.date.getter : Swift.String"
+                  moduleName = "LloydsCodeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/LloydsCodeTest-main/LloydsCodeTest/ViewModel/ProjectViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "433">
+               </Location>
+               <Location
+                  uuid = "47050B10-0A74-4925-8E5C-48B35F526408 - 407c23047390f9c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LloydsCodeTestTests.ProjectDataItemViewModel.date.getter : Swift.String"
+                  moduleName = "LloydsCodeTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/LloydsCodeTest-main/LloydsCodeTest/ViewModel/ProjectViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "433">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
